@@ -1,5 +1,4 @@
 # Đặng Trần Long — [Jajajou]
-### "MENTALLY ILL Developer"
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Actively_Building-C1381F?style=for-the-badge&labelColor=1A1714" alt="Status" />
